@@ -1,0 +1,107 @@
+CRITICAL - 2024-01-08 08:06:27 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "registration_form.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('registration_form.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('registration_form', [], true)
+ 3 APPPATH\Controllers\registration.php(12): view('registration_form')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Registration->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-08 08:06:38 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "registration_form.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('registration_form.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('registration_form', [], true)
+ 3 APPPATH\Controllers\registration.php(12): view('registration_form')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Registration->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-08 08:06:49 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "registration_form.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('registration_form.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('registration_form', [], true)
+ 3 APPPATH\Controllers\registration.php(12): view('registration_form')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Registration->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-08 08:39:36 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "registration/registration_form.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('registration/registration_form.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('registration/registration_form', [], true)
+ 3 APPPATH\Controllers\registration.php(12): view('registration/registration_form')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Registration->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-08 08:39:40 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "registration/registration_form.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('registration/registration_form.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('registration/registration_form', [], true)
+ 3 APPPATH\Controllers\registration.php(12): view('registration/registration_form')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Registration->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-08 08:39:48 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "registration/registration_form.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('registration/registration_form.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('registration/registration_form', [], true)
+ 3 APPPATH\Controllers\registration.php(12): view('registration/registration_form')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Registration->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-08 08:40:48 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "registration/registration_form.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('registration/registration_form.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('registration/registration_form', [], true)
+ 3 APPPATH\Controllers\registration.php(12): view('registration/registration_form')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Registration->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-08 11:48:39 --> ErrorException: Undefined array key "full_name"
+in APPPATH\Views\success.php on line 48.
+ 1 APPPATH\Views\success.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "full_name"', 'C:\\xampp\\htdocs\\c4\\app\\Views\\success.php', 48)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\c4\\app\\Views\\success.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('success', [], true)
+ 5 APPPATH\Controllers\registration.php(69): view('success', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Registration->success()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-08 11:48:48 --> ErrorException: Undefined array key "full_name"
+in APPPATH\Views\success.php on line 48.
+ 1 APPPATH\Views\success.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "full_name"', 'C:\\xampp\\htdocs\\c4\\app\\Views\\success.php', 48)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\c4\\app\\Views\\success.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('success', [], true)
+ 5 APPPATH\Controllers\registration.php(69): view('success', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Registration->success()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-08 11:49:14 --> ErrorException: Undefined array key "full_name"
+in APPPATH\Views\success.php on line 48.
+ 1 APPPATH\Views\success.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "full_name"', 'C:\\xampp\\htdocs\\c4\\app\\Views\\success.php', 48)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\c4\\app\\Views\\success.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('success', [], true)
+ 5 APPPATH\Controllers\registration.php(69): view('success', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Registration->success()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-08 11:50:12 --> ErrorException: Undefined array key "full_name"
+in APPPATH\Views\success.php on line 48.
+ 1 APPPATH\Views\success.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "full_name"', 'C:\\xampp\\htdocs\\c4\\app\\Views\\success.php', 48)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\c4\\app\\Views\\success.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('success', [], true)
+ 5 APPPATH\Controllers\registration.php(69): view('success', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Registration->success()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
